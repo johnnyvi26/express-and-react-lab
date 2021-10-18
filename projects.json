@@ -7,8 +7,8 @@
     },
     {
         "name": "project2",
-        "live": "https://app.netlify.app/whatever",
-        "git": "http://www.github.com/username/reponame",
-        "image": "http://www.imgur.com/pictureofproject.png"
+        "live": "https://johnnyvi26.github.io/MyPokemon/",
+        "git": "https://github.com/johnnyvi26/MyPokemon.git",
+        "image": "https://user-images.githubusercontent.com/82793235/133986237-a27e2b75-9672-4f8d-975b-822b288691fc.png"
     }
 ]
