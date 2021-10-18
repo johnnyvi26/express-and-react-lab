@@ -1,9 +1,9 @@
 [
     {
         "name": "project1",
-        "live": "https://git.heroku.com/johnny-project2.git",
+        "live": "https://johnny-project2.herokuapp.com/",
         "git": "https://github.com/johnnyvi26/express-and-react-lab.git",
-        "image": "http://www.imgur.com/pictureofproject.png"
+        "image": "https://user-images.githubusercontent.com/82793235/136507568-2031052e-1f9c-4ca1-ade9-0ae3bdb44a2e.png"
     },
     {
         "name": "project2",
