@@ -1,14 +1,26 @@
 [
     {
-        "name": "project1",
-        "live": "https://johnny-project2.herokuapp.com/",
-        "git": "https://github.com/johnnyvi26/express-and-react-lab.git",
-        "image": "https://user-images.githubusercontent.com/82793235/136507568-2031052e-1f9c-4ca1-ade9-0ae3bdb44a2e.png"
-    },
-    {
-        "name": "project2",
+        "name": "My Pokemon",
         "live": "https://johnnyvi26.github.io/MyPokemon/",
         "git": "https://github.com/johnnyvi26/MyPokemon.git",
         "image": "https://user-images.githubusercontent.com/82793235/133986237-a27e2b75-9672-4f8d-975b-822b288691fc.png"
+    },
+    {
+        "name": "MyShowsHub",
+        "live": "https://johnny-project2.herokuapp.com/",
+        "git": "https://github.com/johnnyvi26/MyShowsHub-Project2.git",
+        "image": "https://user-images.githubusercontent.com/82793235/136507573-485f1252-0edf-4dcb-83e4-10b3cdef4222.png"
+    },
+    {
+        "name": "GameHub",
+        "live": "https://admiring-morse-93ca80.netlify.app/",
+        "git": "https://github.com/johnnyvi26/project3-frontend.git",
+        "image": "https://user-images.githubusercontent.com/82793235/138996309-bc913bdf-5108-48d4-bc3a-0e0391d78e6d.png"
+    },
+    {
+        "name": "CloudSound",
+        "live": "https://admiring-morse-93ca80.netlify.app/",
+        "git": "https://github.com/johnnyvi26/capstone_frontend.git",
+        "image": "https://user-images.githubusercontent.com/82793235/142982456-c68ad38a-8862-484d-9205-7443a09059ec.png"
     }
 ]
